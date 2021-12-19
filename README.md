@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+![Alt Text](https://github.com/HalimKaya/slider_card/blob/main/card.gif?raw=true)
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
